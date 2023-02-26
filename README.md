@@ -1,7 +1,7 @@
 # Metal detector robot using atmega32  
 ### Members: Samuel Maged - Leena Almekkawy
 
-##Project Idea 
+## Project Idea 
 The main function of the robot is that the robot moves randomly looking for a metal object and when the metal object will be found , the robot will stop then 
 turn on buzzer for 5 seconds then turn off the buzzer and continue in moving.
 This idea can be used in collecting metal objects in 
@@ -9,9 +9,9 @@ street and also can be used in searching for a missing
 metal object.
 
 ### Peripherials used in This Project 
- -DIO
- -TIMERS
- -GIE
+ - DIO
+ - TIMERS
+ - GIE
  
  ### Hardware components 
  - Micro Controller Kit: Atmega 32 
@@ -25,3 +25,4 @@ metal object.
  - Buzzer 
  - Battery
 
+![Picture](https://user-images.githubusercontent.com/75577712/221385321-11d43899-32b2-4f1c-a492-253f8aea4fa3.jpg)
